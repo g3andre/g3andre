@@ -5,7 +5,7 @@ $_SESSION['educational_background']] = 'Análise e Desenvolvimento de Sistemas';
 $_SESSION['learning'] = 'PHP';
 $_SESSION['knowledge'] = [ 'Javascript', 'Typescript', 'Html', 'Css', 'Java' ];
 ```
-<div style="display: inline_block; padding: 20px">
+<div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
